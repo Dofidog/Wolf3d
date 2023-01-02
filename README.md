@@ -7,7 +7,8 @@ It is a valid and a finished project in terms of school progress, but something 
 
 The goal of this project was to create a program that takes a file holding 2D coordinates for a map as a parameter and renders it to a 3D environment.
 
-usage: "./wolf3d test_map"
+# usage: 
+    "./wolf3d test_map"
 
 # You can:
 
