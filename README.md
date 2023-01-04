@@ -34,6 +34,8 @@ example maps in test_maps folder.
 
     convert to SDL
     
+    Destroy the MEGAstruct
+    
     draw walls beyond the first
     
     sprites & enemies to interact with
