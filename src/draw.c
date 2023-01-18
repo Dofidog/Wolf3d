@@ -16,10 +16,6 @@ float	pythagoras(float a, float b)
 {
 	double	c;
 
-	if (a < 0)
-		a *= -1;
-	if (b < 0)
-		b *= -1;
 	c = (a * a) + (b * b);
 	c = sqrt(c);
 	return (c);
